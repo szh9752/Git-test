@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Hello world!git4");
         System.out.println("Hello world!git5");
         System.out.println("Hello world!git0.0.0.0.");
+         System.out.println("pull 在GitHub上添加的代码！！！！");
     }
 }
