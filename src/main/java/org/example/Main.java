@@ -1,5 +1,11 @@
-package org.example;public class Main {
+package org.example;
+
+public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Hello world!git1");
+        System.out.println("Hello world!git2");
+        System.out.println("Hello world!git3");
+        System.out.println("Hello world!git4");
+        System.out.println("Hello world!git5");
     }
 }
